@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi There, I'm HARI RAGHAVAN M<br><br>Hi! I'm passionate about coding and always excited to learn new things. With a constant growth mindset, I'm dedicated to exploring and innovating in the world of hardware and technology.<br><br>I'm Currently Working on Ecommerce Website to Achieve a smooth and user-friendly online shopping experience with the latest web technologies.
+## Hi There, I'm HARI RAGHAVAN M<br>
+<br>Hi! I'm passionate about coding and always excited to learn new things. With a constant growth mindset, I'm dedicated to exploring and innovating in the world of hardware and technology.<br><br>I'm Currently Working on Ecommerce Website to Achieve a smooth and user-friendly online shopping experience with the latest web technologies.
 
 
 ## 🌐 Socials:

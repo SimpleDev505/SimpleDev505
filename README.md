@@ -1,3 +1,8 @@
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/mmphego/mmphego/master/resources/mpho.mp3">How to pronounce my name!</a><br>
+  <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=mmphego.mmphego" alt="visitor count"/></br> -->
+
 <h1 align="center">Hi 👋, I'm HARI RAGHAVAN</h1>
 <h3 align="center">Driven by curiosity and a love for coding. Passionate about building and exploring new technologies. Committed to continuous learning and technological excellence.</h3>
 

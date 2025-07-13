@@ -18,11 +18,18 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 # My Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SimpleDev505&repo=EcommerceWebsite)](https://github.com/SimpleDev505/EcommerceWebsite?)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=EcommerceSite&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=groceryapp&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=MusicSite&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=MyChatApp&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=hrportfolio&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=HR-CustomIDE&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=clickshield-Cyber-Fraud-Prevention-Browser-Extenstion-&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/repo?user=SimpleDev505&repo=fsp-app&layout=compact&theme=dark)](https://github.com/KasRoudra/github-stats-card)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SimpleDev505&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SimpleDev505&theme=blue-green&hide_border=false)<br/>
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SimpleDev505&layout=compact&type=donut&theme=dark)](https://github.com/SimpleDev505/github-stats-card)
 
 
 ---

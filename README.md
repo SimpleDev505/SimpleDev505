@@ -1,42 +1,46 @@
-# 💫 About Me:
-## Hi There, I'm HARI RAGHAVAN M<br>
-<br>Hi! I'm passionate about coding and always excited to learn new things. With a constant growth mindset, I'm dedicated to exploring and innovating in the world of hardware and technology.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+there+👋;Exploring+Software+Cloud+Development;Building+Stuff+That+Excites+Me+🔥">
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-hari-raghavan-6981a72a1) 
+#### ECE student building at the intersection of hardware and software—full-stack dev, AWS cloud, and computer vision. From production web apps to an IEEE-published IoT parking system, I solve real problems with Python, React, Flask, and modern tools. Focused on IoT, ML, and impactful solutions.<br>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![GSAP](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Socials:
+<p align="center">
+<a href="https://linkedin.com/in/m-hari-raghavan-6981a72a1" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://hariraghavan-portfolio.netlify.app/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Edge.png?raw=true" alt="portfolio" height="50" width="50" /></a>
+<a href="mailto:hariraghavan005@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="mail" height="50" width="50" /></a>
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### Tech Stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,express,svelte,mongodb,mysql,redis,apache,aws,git,linux,unreal,unity&perline=20" />
+  </a>
+</p>
 
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)
+### GitHub Stats:
+<div align=center>
+   
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=SimpleDev505&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+</div>
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![3JS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SimpleDev505&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=SimpleDev505&layout=compact&type=donut&theme=dark)](https://github.com/SimpleDev505/github-stats-card)
-
+<p align="center">
+  <a href="https://github.com/SimpleDev505/MyChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleDev505&repo=MyChatApp&theme=tokyonight" alt="MyChatApp" />
+  </a>
+  <a href="https://github.com/SimpleDev505/fsp-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleDev505&repo=fsp-app&theme=tokyonight" alt="fsp-app" />
+  </a>
+  <a href="https://github.com/SimpleDev505/HRDrive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleDev505&repo=HRDrive&theme=tokyonight" alt="HRDrive" />
+  </a>
+  <a href="https://github.com/SimpleDev505/HR-CustomIDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SimpleDev505&repo=HR-CustomIDE&theme=tokyonight" alt="HR-CustomIDE" />
+  </a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SimpleDev505&icon=6&color=9)](https://visitcount.itsvg.in)
-
